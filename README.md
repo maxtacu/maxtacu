@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Max 👩‍💻 </h1>
+
+<p align='center'>
+  I live in Lisbon, Portugal and work at <b><a href="https://www.olxgroup.com/">OLX Group</a></b> 
+</p>
 
 <!--
 **maxtacu/maxtacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
