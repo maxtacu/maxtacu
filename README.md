@@ -6,12 +6,14 @@
 
 ## I like
 
-- Basketball
 - Open-source, Python, Terraform and AWS 
+- Playing basketball, CS:GO
 
+<!--
 **Weekly DevOps show** stream every Monday at 20:00 +1 UTC  
 News, events, tools, hands-on experience, chatting and more.. Tune in 
 [<img alt="maxdoesdevops | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+-->
 
 ### Connect with me
 
