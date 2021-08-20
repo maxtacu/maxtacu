@@ -1,12 +1,12 @@
-<h1 align='center'> Hi there 👋, I'm Max 👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Max 🧑‍💻 </h1>
 
 <p align='center'>
-  I live in Lisbon, Portugal and work at <b><a href="https://www.olxgroup.com/">OLX Group</a></b> 
+  I live in Lisbon, Portugal and work at <b><a href="https://cloudmobility.io/">Cloudmobility</a> (Powered by <a href="https://www.mercedes-benz.io/">Mercedes-Benz</a>)</b> 
 </p>
 
 ## I like
 
-- Open-source, Python, Terraform and AWS 
+- Open-source, Python, Terraform, Kubernetes and AWS 
 - Playing basketball, CS:GO
 
 <!--
