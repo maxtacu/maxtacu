@@ -6,7 +6,7 @@
 
 ## I like
 
-- Open-source, Python, Terraform, Kubernetes and AWS 
+- Open-source, Python, Go, Terraform, Kubernetes and AWS 
 - Playing basketball, CS:GO
 
 <!--
@@ -17,11 +17,11 @@ News, events, tools, hands-on experience, chatting and more.. Tune in
 
 ### Connect with me
 
-[<img align="left" alt="maximtacu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MaximTacu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="maxim-tacu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Channel on YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="maxdoesdevops | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="maximtacu.com" width="22px" src="https://pics.freeicons.io/uploads/icons/png/14097962561558096326-512.png" />][website]
+[<img align="left" alt="MaximTacu | Twitter" width="22px" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" />][twitter]
+[<img align="left" alt="maxim-tacu | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Channel on YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
+[<img align="left" alt="maxdoesdevops | Twitch" width="22px" src="https://pics.freeicons.io/uploads/icons/png/169806681551953707-512.png" />][twitch]
 
 [website]: https://www.maximtacu.com
 [twitter]: https://twitter.com/MaximTacu
