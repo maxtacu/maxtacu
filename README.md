@@ -7,7 +7,7 @@
 ## I like
 
 - Open-source, Python, Go, Terraform, Kubernetes and AWS 
-- Playing basketball, CS:GO
+- Surfing, Playing basketball, CS:GO
 
 <!--
 **Weekly DevOps show** stream every Monday at 20:00 +1 UTC  
