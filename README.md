@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Max 🧑‍💻 </h1>
 
 <p align='center'>
-  I live in Lisbon, Portugal and work at <b><a href="https://cloudmobility.io/">Cloudmobility</a> (Powered by <a href="https://www.mercedes-benz.io/">Mercedes-Benz</a>)</b> 
+  I live in Lisbon, Portugal and work at <b><a href="https://evolution.com/">Evolution Gaming</a></b> 
 </p>
 
 ## I like
