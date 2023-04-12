@@ -18,6 +18,7 @@ News, events, tools, hands-on experience, chatting and more.. Tune in
 ### Connect with me
 
 [<img align="left" alt="maximtacu.com" width="22px" src="https://pics.freeicons.io/uploads/icons/png/14097962561558096326-512.png" />][website]
+[<img align="left" alt="DevTo" width="22px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />][devto]
 [<img align="left" alt="MaximTacu | Twitter" width="22px" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" />][twitter]
 [<img align="left" alt="maxim-tacu | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Channel on YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
@@ -28,6 +29,7 @@ News, events, tools, hands-on experience, chatting and more.. Tune in
 [linkedin]: https://www.linkedin.com/in/maxim-tacu/
 [youtube]: https://bit.ly/2FhDjpu
 [twitch]: https://twitch.tv/maxdoesdevops
+[devto]: https://dev.to/maxtacu
 
 <!--
 **maxtacu/maxtacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
