@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Max 🧑‍💻 </h1>
 
 <p align='center'>
-  I live in Lisbon, Portugal and work at <b><a href="https://simple.life/">Simple</a></b> 
+  I live in Lisbon, Portugal and work at <b><a href="https://olxgroup.com">OLX Group</a></b> 
 </p>
 
 ## I like
